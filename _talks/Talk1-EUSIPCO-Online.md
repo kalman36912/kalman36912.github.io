@@ -9,4 +9,4 @@ location: "Belgrade, Serbia"
 ---
 
 
-Presented my work on online graph learning.
+Presented my work on online graph learning in EUSIPCO2022.
