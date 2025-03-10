@@ -8,4 +8,4 @@ date: 2022-08-29
 location: "Belgrade, Serbia"
 ---
 
-Presented my work on multiple graph learning.
+Presented my work on time-varying graph learning in EUSIPCO2022.
