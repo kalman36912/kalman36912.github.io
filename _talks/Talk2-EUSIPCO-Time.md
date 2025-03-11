@@ -9,3 +9,4 @@ location: "Belgrade, Serbia"
 ---
 
 Presented my work on time-varying graph learning in EUSIPCO2022.
+<p><a href="http://kalman36912.github.io/files/slides_EUSIPCO-Time.pdf">Download Slides</a></p>
