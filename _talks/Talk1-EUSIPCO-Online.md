@@ -8,5 +8,5 @@ date: 2022-08-29
 location: "Belgrade, Serbia"
 ---
 
-Presented my work on online graph learning in EUSIPCO2022. <a href="files/C1-EUSIPCO-Online.pdf" target="_blank">Slides</a>
+Presented my work on online graph learning in EUSIPCO2022. <a href="files/C1-EUSIPCO-Online.pdf" target="_blank">slides</a>
 
