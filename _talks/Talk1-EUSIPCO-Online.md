@@ -8,5 +8,6 @@ date: 2022-08-29
 location: "Belgrade, Serbia"
 slidesurl: 'http://kalman36912.github.io/files/slides_EUSIPCO-Online.pdf'
 ---
-Presented my work on online graph learning in EUSIPCO2022.
+Presented my work on online graph learning in EUSIPCO2022. <a href="http://kalman36912.github.io/files/slides_EUSIPCO-Online.pdf">Download Slides</a>
+
 
